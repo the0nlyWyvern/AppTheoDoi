@@ -1,0 +1,56 @@
+[01:13:40]
+[Return][Back][Back][LeftCtrl]s[LeftAlt][Tab][Tab][Tab]
+[01:14:40]
+sdddd[LeftCtrl]txem anh tren google di[Back]rive[Return]
+[01:15:40]
+parent[LeftCtrl]tw
+[01:19:12]
+[Return]stop timer c[LeftShift][Back].net[Return][LeftCtrl]tdestr[Right][LeftCtrl]athread in tread[Down][Down][Return]
+[01:25:08]
+[Return][LeftAlt]f[Back]
+[01:26:08]
+[F10][F5]o[LeftAlt][LeftAlt][F9][LeftAlt][LeftAlt][LeftAlt][LeftAlt][Tab][Tab][Tab][Tab][LeftCtrl]w[LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]w[LeftCtrl][LeftShift]T[LeftCtrl][LeftCtrl]w[LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]w[LeftCtrl]
+[01:27:08]
+w[F10][F5][LeftAlt]
+[01:28:08]
+kill child thread [Down][Down][LeftCtrl][Back].net[Return][LeftCtrl]tthread created in thread c[LeftShift]3[Return][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]w[LeftCtrl]tstop timer h[Back]when thread di[Back][Back]is killed[Return][LeftAlt]
+[01:29:08]
+[LeftAlt][Tab] .net[Return][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]w[LeftAlt][LeftAlt][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]
+[01:30:08]
+01[LeftShift];30[LeftCtrl]s[LeftAlt][Tab][LeftAlt][Tab]parent[Return][LeftAlt][Tab]
+[01:30:49]
+[F9][LeftAlt][Tab][LeftCtrl]w
+[01:31:08]
+[F5][F9][LeftAlt][LeftAlt][Tab]
+[01:31:49]
+timer [Return]
+[01:32:08]
+
+[01:32:49]
+stop tie[Back]mer when[Right][Return]
+[01:33:08]
+[LeftCtrl]tcall b[Back][Back]back when thread killed c[LeftShift]3[Return][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl][LeftCtrl]
+[01:43:30]
+[LeftCtrl]wwwwwwwwwwwwwwwww
+[01:47:58]
+[Return]
+[04:44:30]
+[Return]log screen[LeftCtrl]w
+[04:45:29]
+[F9]
+[04:48:01]
+[Return]finger test[Return][LeftCtrl][LeftShift]a[LeftShift]m thu[LeftShift][LeftShift][Left]c bao qa[LeftShift]uat na[LeftShift]m so[LeftShift] d[LeftShift]ien tu[LeftShift] sung suo[LeftShift][LeftShift][Left]ng ra[LeftShift][Left]n ngoa[LeftShift][LeftShift] dinh d[LeftShift]anh chi[LeftShift]nh tra[LeftShift] lo[LeftShift][LeftShift][Left]i buo[LeftShift][Left]m gia[LeftShift][LeftShift]y to[Back] tin da so[LeftShift] vie[LeftShift]t lach chi kinh ca[LeftShift]m o[LeftShift]n sinh dji[LeftShift]o[LeftShift][Left]i chi ngu[LeftShift] quang nam trang em chi ma[LeftShift] thi h
+[04:49:01]
+a[LeftShift]nh phoi ho[LeftShift][LeftShift]p im vi[LeftShift][Back] xanh mu[LeftShift]a ngu[Back][LeftShift][Left] van giao tho[LeftShift][Left]ng 
+[04:51:27]
+[Return][Delete][Return][F5]
+[04:52:27]
+chua hoaachu thuongaChu Hoa[Tab]chu viet hoaa[Back]CHU VIET THUONGa[Back][Tab][F5]
+[04:53:27]
+[Tab][Tab][Tab][Tab][Tab][Tab][Tab][Tab][Tab][Tab][Tab][Down][Down][Down][Down][Down][Back][Back][Back][Back][Back][Tab]
+[04:56:32]
+
+phu thang nga vi lanh tra loi nganh ran bay giao thong xa dien tu mua tham ha trong thanh dien tut ttuotuoi lam fchi nhan
+
+
+ dan phu dinh da nang THO THEO CAU DDUONG 
